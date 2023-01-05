@@ -17,3 +17,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 https://bsmyth310.github.io/Horiseon-Refactor-Mod-1/
+
+
+<img src="01-html-css-git-homework-demo.png" alt="Broken Website" title="Original Issue Screenshot of Website">
